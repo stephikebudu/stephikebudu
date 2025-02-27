@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stephany Ikebudu</h1>
+<h1 align="center">Hi 👋🏽, I'm Stephany Ikebudu</h1>
 <h3 align="center">Frontend Developer || Technical Writer</h3>
 
 - ‍💻 All of my projects are available at [www.github.com/stephikebudu](www.github.com/stephikebudu)
