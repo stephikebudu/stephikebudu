@@ -3,7 +3,7 @@
 
 - ‍💻 All of my projects are available at [www.github.com/stephikebudu](www.github.com/stephikebudu)
 
-- 📝 I regularly write articles on [https://dev.to/stephikebudu](https://dev.to/stephikebudu)
+- 📝 I regularly write articles on [https://dev.to/stephikebudu](https://medium/@stephikebudu)
 
 - 📫 How to reach me **stephikebudu@gmail.com**
 
