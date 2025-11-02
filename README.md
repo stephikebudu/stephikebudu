@@ -39,7 +39,7 @@
 
 I’m a software engineer who has turned my love for problem-solving into a full-time career. I currently have 2+ years of experience developing robust web applications, from building modern, dynamic UIs to developing the backend infrastructure that make applications functional as well as building the systems for deployment.
 
-I enjoy volunteering in my free time and currently volunteer for [Google Developer Group Abuja](https://gdg.community.dev/gdg-abuja/), [Young Women Code](https://www.youngwomencode.org/) & [Nigerian Girl in STEM](https://www.instagram.com/nigeriangirlinstem/). I also love contributing to Open Source projects that interest me, I'm a project maintainer for [SinkedIn](https://www.sinkedin.app/) and regularly contribute to [YouTube Channel Directory](https://github.com/stephikebudu/Free-Official-Youtube-Content/tree/main). I'm passionate about personal development, currently I'm exploring technologies and specializations in data and so I'm actively strengthening Python programming skills by studying [Head First Python by Paul Barry](https://www.google.com.ng/books/edition/Head_First_Python/ycnSEAAAQBAJ?hl=en&gbpv=0) and solving problems on a code club I pioeereed and lead.  
+I enjoy volunteering in my free time and currently volunteer for [Google Developer Group Abuja](https://gdg.community.dev/gdg-abuja/), [Young Women Code](https://www.youngwomencode.org/) & [Nigerian Girl in STEM](https://www.instagram.com/nigeriangirlinstem/). I also love contributing to Open Source projects that interest me, I'm a project maintainer for [SinkedIn](https://www.sinkedin.app/) and regularly contribute to [YouTube Channel Directory](https://github.com/stephikebudu/Free-Official-Youtube-Content/tree/main). I'm passionate about personal development, currently I'm exploring technologies/specializations in data - I'm training my Python programming muscles by studying [Head First Python by Paul Barry](https://www.google.com.ng/books/edition/Head_First_Python/ycnSEAAAQBAJ?hl=en&gbpv=0) and solving problems.
   
 
 <br/>  
@@ -51,7 +51,7 @@ I enjoy volunteering in my free time and currently volunteer for [Google Develop
     
 - 🌱 I’m exploring software engineering in data  
     
-- ❓ Ask me about JavaScript and Python programming  
+- ❓ I'm probably discussing/reading on JavaScript or Python programming this very second
     
 - ⚡ Fun fact: I'm now A2 level in French Language. Add me up on Duolingo [@stephikebudu](https://www.duolingo.com/profile/stephikebudu)
 
