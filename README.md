@@ -1,4 +1,4 @@
-## Hi 👋🏽, I'm Steph Ikebudu!  
+# <p align="center">Hi 👋🏽, I'm Steph Ikebudu!</p>
   
 
 <div align="center">
