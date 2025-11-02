@@ -14,7 +14,7 @@
   <a href="https://hashnode.com/@stephikebudu" target="_blank">
   <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
   </a>
-  <a href="https://stackoverflow.com/users/stephikebudu" target="_blank">
+  <a href="https://stackoverflow.com/users/20329900/steph-ikebudu" target="_blank">
   <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
   </a>
   <a href="https://linkedin.com/in/stephikebudu" target="_blank">
