@@ -47,9 +47,7 @@ I enjoy volunteering in my free time and currently volunteer for [Google Develop
 
 ## Life Lately
 
-- 🔭 I’m working on professional certification in Data
-    
-- 🌱 I’m exploring software engineering in data  
+- 🌱 I’m working on professional certification in Data  
     
 - ❓ I'm probably discussing/reading on JavaScript or Python programming this very second
     
