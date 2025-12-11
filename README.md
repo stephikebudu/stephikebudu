@@ -47,7 +47,7 @@ I enjoy volunteering in my free time and currently volunteer for [Google Develop
 
 ## Life Lately
 
-- 🔭 I’m working on [#25daysofdatawithwida](https://www.instagram.com/explore/search/keyword/?q=%2325daysofdatawithwida&hl=en)  
+- 🔭 I’m working on professional certification in Data
     
 - 🌱 I’m exploring software engineering in data  
     
