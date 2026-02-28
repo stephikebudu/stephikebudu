@@ -47,7 +47,7 @@ I enjoy volunteering in my free time and currently volunteer for [Google Develop
 
 ## Life Lately
 
-- 🌱 I’m working on navigating early careee successfully  
+- 🌱 I’m working on navigating early career successfully  
     
 - ❓ I'm probably studying this very second
     
