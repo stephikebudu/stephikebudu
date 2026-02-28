@@ -47,9 +47,9 @@ I enjoy volunteering in my free time and currently volunteer for [Google Develop
 
 ## Life Lately
 
-- 🌱 I’m working on professional certification in Data  
+- 🌱 I’m working on navigating early careee successfully  
     
-- ❓ I'm probably discussing/reading on JavaScript or Python programming this very second
+- ❓ I'm probably studying this very second
     
 - ⚡ Fun fact: I've been self-learning French actively for 1+ year now and have attained basic conversational level in French Language🎉. Add me up on Duolingo [@stephikebudu](https://www.duolingo.com/profile/stephikebudu)
 
